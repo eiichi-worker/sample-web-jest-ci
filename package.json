@@ -1,0 +1,23 @@
+{
+  "name": "sample-web-jest-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^22.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eiichi-worker/sample-web-jest-ci.git"
+  },
+  "author": "eiichi-worker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eiichi-worker/sample-web-jest-ci/issues"
+  },
+  "homepage": "https://github.com/eiichi-worker/sample-web-jest-ci#readme"
+}
